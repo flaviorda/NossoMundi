@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nosso Mundi</string>
+    <string name="username">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="loginFailed">Usuário ou senha incorreto!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
